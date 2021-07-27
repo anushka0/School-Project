@@ -30,6 +30,11 @@
     float: left;
 }
 
+.menu ul {
+    display: inline;
+    margin-left: 320px;
+}
+
 .menu ul li {
     display: inline;
     margin: 20px;
@@ -38,6 +43,11 @@
 .menu_login {
     float: right;
     margin: 15px;
+}
+
+.login_ul {
+    float: right;
+    margin-left: 100px;
 }
 
 .banner img {
